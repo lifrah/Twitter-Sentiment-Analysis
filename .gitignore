@@ -1,2 +1,6 @@
 
 training.1600000.processed.noemoticon.csv
+.ipynb_checkpoints/Sentiment-BNB.pickle
+.ipynb_checkpoints/Sentiment-LR.pickle
+.ipynb_checkpoints/Tweet-checkpoint.ipynb
+.ipynb_checkpoints/vectoriser-ngram-(1,2).pickle
